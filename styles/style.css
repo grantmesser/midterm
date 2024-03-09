@@ -1,0 +1,50 @@
+nav ul{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+
+nav li{
+    margin: 0 20px;
+}
+
+nav a{
+    text-decoration: none;
+    color: #fff;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    }
+img {
+    max-width: 100%;
+    }
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #333;
+    color: #fff;
+    }
+
+div .left {
+        color: rgb(133, 133, 133);
+        width:45%;
+        float:left;
+    }
+div .right{
+    color: rgb(133, 133, 133);
+}
+
+img {
+    height: 350px;
+    width: 350px;
+}
+section h1 {
+    color: rgb(133, 133, 133);
+}
+
+#class {color: rgb(133, 133, 133)}
+    
+
